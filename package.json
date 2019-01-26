@@ -1,0 +1,21 @@
+{
+  "name": "iglocationlikerrr",
+  "version": "0.1.0",
+  "description": "Simple script to find & like Instagram posts based on location",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "dotenv": "^6.2.0",
+    "instagram-private-api": "^0.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "automation"
+  ],
+  "author": "Kevin Meyvaert",
+  "license": "MIT"
+}
